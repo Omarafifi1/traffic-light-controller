@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\study\digital\verilog codes\fsm\traffic light
+valsu_tb
+Z1 !s100 a_0e;QWBBc?iEcO7XKnj91
+Z2 I:I9`A3UAoNODD8QRWb7RM1
+Z3 VnH2glS]i]BZh02mZP7zDb1
+Z4 dD:\study\digital\verilog codes\fsm\traffic light
+w0
+Z5 8D:/study/digital/verilog codes/project alsu/alsu.v
+Z6 FD:/study/digital/verilog codes/project alsu/alsu.v
+Z7 L0 197
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/study/digital/verilog codes/project alsu/alsu.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1693060339.283000
+Z12 !s107 D:/study/digital/verilog codes/project alsu/alsu.v|
+!s101 -O0
+vtraffic_light_controller_tb
+!i10b 1
+!s100 a[LF3YY^o4]SL<=zFljnE0
+I=F2E8hik@NPLETfoEjaRO1
+V5@:SZZC?EV^BkG:DN:I0D3
+dD:\study\digital\verilog codes\mycodes\M8 fsm\traffic light
+w1693749241
+8D:/study/digital/verilog codes/mycodes/M8 fsm/traffic light/traffic light tb.v
+FD:/study/digital/verilog codes/mycodes/M8 fsm/traffic light/traffic light tb.v
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1693749245.190000
+!s107 D:/study/digital/verilog codes/mycodes/M8 fsm/traffic light/traffic light tb.v|
+!s90 -reportprogress|300|-work|work|D:/study/digital/verilog codes/mycodes/M8 fsm/traffic light/traffic light tb.v|
+!s101 -O0
+R10
