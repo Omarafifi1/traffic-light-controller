@@ -1,9 +1,0 @@
-{D:/study/digital/verilog codes/fsm/traffic light control.v} {1 {vlog -work work {D:/study/digital/verilog codes/fsm/traffic light control.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module traffic_light_controller
--- Compiling module traffic_light_controller_tb
-
-Top level modules:
-	traffic_light_controller_tb
-
-} {} {}}
